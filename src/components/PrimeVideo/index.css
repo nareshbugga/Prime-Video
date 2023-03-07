@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #000000;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+.prime-image {
+  width: 100%;
+}
+.slide-container {
+  padding: 50px;
+  min-height: 100vh;
+}
+.slide-heading {
+  color: #ffffff;
+  font-weight: 'Roboto';
+}
